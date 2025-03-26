@@ -707,7 +707,7 @@ public partial class MainForm : MetroForm
 
     private void guna2Button8_Click(object sender, EventArgs e)
     {
-        Process.Start("https://github.com/GabryB03/PickAnyVoice/");
+        Process.Start("https://github.com/ZygoteCode/PickAnyVoice/");
     }
 
     private static IEnumerable<string> SplitToLines(string input)
