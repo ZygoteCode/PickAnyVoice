@@ -614,7 +614,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.State = MetroSuite.MetroForm.FormState.Normal;
             this.Style = MetroSuite.Design.Style.Dark;
-            this.Text = "PickAnyVoice | Made by https://github.com/GabryB03/";
+            this.Text = "PickAnyVoice | Made by https://github.com/ZygoteCode/";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
